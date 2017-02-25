@@ -62,7 +62,7 @@ iframe {
 
 #head1 {
     height: 350px;
-    background: url("/img/gangnam/head1_3.jpg") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head1_3.jpg") no-repeat center;
     background-size:cover;
 }
 
@@ -106,7 +106,7 @@ iframe {
 
 #head2 {
     min-height: 350px;
-    background: url("/img/gangnam/head2_3.jpg") center bottom;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head2_3.jpg") center bottom;
     background-size: cover;
 }
 
@@ -145,7 +145,7 @@ iframe {
 }
 
 #head3 {
-    background: url("/img/gangnam/head3_3.jpg") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head3_3.jpg") no-repeat center;
     background-size: cover;
     height: 500px;
 }
@@ -195,7 +195,7 @@ iframe {
 }
 
 #head5 {
-    background: url("/img/gangnam/head5_3.png") no-repeat left;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head5_3.png") no-repeat left;
     background-size: auto;
     min-height: 180px;
     position: absolute;
@@ -269,7 +269,7 @@ iframe {
 }
 
 #img1 {
-    background: url("/img/gangnam/content1_3.jpg") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content1_3.jpg") no-repeat center;
     background-size: cover;
     height: 350px;
     position: relative;
@@ -285,27 +285,27 @@ iframe {
 }
 
 #aero {
-    background: url("/img/gangnam/content2_3.jpg") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content2_3.jpg") no-repeat center;
     background-size: contain;
     height: 300px;
     position: relative;
 }
 
 #cont3 {
-    background: url("/img/gangnam/content3_3.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content3_3.png") no-repeat center;
     background-size: contain;
     width: 100%;
     height: 150px;
 }
 
 #head4 {
-    background: url("/img/gangnam/head4_3.jpg") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head4_3.jpg") no-repeat center;
     background-size: cover;
     min-height: 700px;
 }
 
 #cont5 {
-    background: url("/img/gangnam/content5_3.png") no-repeat right;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head5_3.png") no-repeat right;
     background-size: contain;
     height: 95px;
 }
@@ -315,32 +315,32 @@ iframe {
 }
 
 #studio {
-    background: url("/img/gangnam/content6-1_3.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content6-1_3.png") no-repeat center;
     background-size: contain;
     height: 270px;
 }
 
 #bd {
-    background: url("/img/gangnam/content6-2_3.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content6-2_3.png") no-repeat center;
     background-size: contain;
     height: 270px;
 }
 
 #hotel {
-    background: url("/img/gangnam/content6-3_3.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content6-3_3.png") no-repeat center;
     background-size: contain;
     height: 270px;
 }
 
 
 #spec-s {
-    background: url("/img/gangnam/spec6-1_3.png");
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/spec6-1_3.png");
 }
 #spec-bd {
-    background: url("/img/gangnam/spec6-2_3.png");
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/spec6-2_3.png");
 }
 #spec-h {
-	background: url("/img/gangnam/spec6-3_3.png");
+	background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/spec6-3_3.png");
 }
 
 #spec-s,#spec-bd,#spec-h {
@@ -360,13 +360,13 @@ iframe {
 
 
 #head7 {
-    background: url("/img/gangnam/head7_3.png") no-repeat top left;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/head7_3.png") no-repeat top left;
     background-size: cover;
     height: 240px;
 }
 
 #cont7 {
-    background: url("/img/gangnam/content7_3.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/gangnam/content7_3.png") no-repeat center;
     background-size: contain;
     height: 200px;
     width: 80%;
@@ -411,7 +411,7 @@ iframe {
 
 
 #badge {
-    background: url("/img/head.png") no-repeat top left;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/head.png") no-repeat top left;
     background-size: contain;
     height: 60px;
     top: -5px;
@@ -419,7 +419,7 @@ iframe {
 }
 
 #owner {
-    background: url("/img/author.png") no-repeat top right;
+    background: url("https://raw.githubusercontent.com/Chelestial/test/master/img/author.png") no-repeat top right;
     background-size: contain;
     height: 60px;
     top: -5px;
